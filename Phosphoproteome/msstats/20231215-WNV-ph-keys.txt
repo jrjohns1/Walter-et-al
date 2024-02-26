@@ -1,0 +1,16 @@
+FileName	Condition	BioReplicate
+2016114_alr_HR406_phos_rep1	WNV	1
+2016114_alr_HR406_phos_rep2	WNV	1
+2016114_alr_HR407_phos_rep1	WNV	2
+2016114_alr_HR407_phos_rep2	WNV	2
+2016114_alr_HR408_phos_rep1	WNV	3
+2016114_alr_HR408_phos_rep2	WNV	3
+2016114_alr_HR409_phos_rep1	WNV	4
+2016114_alr_HR409_phos_rep2	WNV	4
+2016114_alr_HR414_phos_rep1	Mock	1
+2016114_alr_HR414_phos_rep2	Mock	1
+2016114_alr_HR415_phos_rep1_161121161409	Mock	2
+2016114_alr_HR415_phos_rep2	Mock	2
+2016114_alr_HR416_phos_rep1	Mock	3
+2016114_alr_HR417_phos_rep1	Mock	4
+2016114_alr_HR417_phos_rep2	Mock	4

@@ -1,0 +1,17 @@
+RawFile	IsotopeLabelType	Condition	BioReplicate	Run
+20161105_alr_HR406_protein_rep1_161105221650	L	WNV	1	1
+20161105_alr_HR406_protein_rep2_161106011521	L	WNV	1	2
+20161105_alr_HR407_protein_rep1_161106064909	L	WNV	2	3
+20161105_alr_HR407_protein_rep2	L	WNV	2	4
+20161105_alr_HR408_protein_rep1	L	WNV	3	5
+20161105_alr_HR408_protein_rep2	L	WNV	3	6
+20161105_alr_HR409_protein_rep1	L	WNV	4	7
+20161105_alr_HR409_protein_rep2	L	WNV	4	8
+20161105_alr_HR414_protein_rep2	L	Mock	1	9
+20161105_alr_HR414_protein_rep1	L	Mock	1	10
+20161105_alr_HR415_protein_rep2	L	Mock	2	11
+20161105_alr_HR415_protein_rep1	L	Mock	2	12
+20161105_alr_HR416_protein_rep1	L	Mock	3	13
+20161105_alr_HR416_protein_rep2	L	Mock	3	14
+20161105_alr_HR417_protein_rep1	L	Mock	4	15
+20161105_alr_HR417_protein_rep2	L	Mock	4	16
